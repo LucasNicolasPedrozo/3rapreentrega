@@ -1,0 +1,26 @@
+[
+    {
+      "precio": 300,
+      "id": 1,
+      "title": "Azúcar",
+      "thumbnailUrl": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/177145-200-200/Azucar-Comun-Tipo-A-Andina-1-Kg-1-10165.jpg?v=638085405668030000"
+    },
+    {
+      "precio": 450,
+      "id": 2,
+      "title": "Harina",
+      "thumbnailUrl": "/imagenes/harina.png"
+    },
+    {
+      "precio": 500,
+      "id": 3,
+      "title": "Leche",
+      "thumbnailUrl": "/imagenes/leche.jpg"
+    },
+    {
+      "precio": 350,
+      "id": 4,
+      "title": "Pan",
+      "thumbnailUrl": "/imagenes/pan.jpg"
+    }
+  ]
